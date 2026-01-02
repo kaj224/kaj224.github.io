@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kayla Jones"
 title_separator          : "-"
 name                     : &name "Kayla Jones"
-description              : &description "PhD Student @ Cornell Brooks School of Public Policy"
+description              : &description "PhD Candidate @ Cornell Brooks School of Public Policy"
 url                      : https://kaj224.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kaj224/kaj224.github.io"
@@ -35,7 +35,6 @@ author:
   linkedin         : "https://www.linkedin.com/in/kaylaajones/"
   github           : "https://github.com/kaj224"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -43,12 +42,10 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +56,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : https://substack.com/@kaythephd?
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
