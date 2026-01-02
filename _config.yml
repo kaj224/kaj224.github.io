@@ -21,18 +21,16 @@ repository               : "kaj224/kaj224.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Kayla Jones"
-  avatar           :
+  avatar           : "1N6A0579.JPG"
   bio              : "PhD Candidate @ Cornell Brooks Public Policy"
   location         : "Ithaca, NY"
   employer         : "Cornell University"
   uri              : # URL
   email            : "kaj224@cornell.edu" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=wnbMtd4AAAAJ&hl=en"
   linkedin         : "https://www.linkedin.com/in/kaylaajones/"
   github           : "https://github.com/kaj224"
+  googlescholar    : "https://scholar.google.com/citations?user=wnbMtd4AAAAJ&hl=en"
+  substack         : "https://substack.com/@kaythephd?"
   semantic         : # URL
   researchgate     : # URL
   scopus           : # URL
