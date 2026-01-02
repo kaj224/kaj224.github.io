@@ -25,7 +25,6 @@ author:
   bio              : "PhD Candidate @ Cornell Brooks Public Policy"
   location         : "Ithaca, NY"
   employer         : "Cornell University"
-  uri              : # URL
   email            : "kaj224@cornell.edu" 
   linkedin         : "https://www.linkedin.com/in/kaylaajones/"
   github           : "https://github.com/kaj224"
@@ -53,7 +52,6 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  substack         : https://substack.com/@kaythephd?
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
